@@ -15,6 +15,7 @@ Login Page            |  Sign Up Page
 ![Main Page](https://github.com/heitorsampaio/project-canada/blob/master/task-manager/screenshots/mainPage.png)
 
 # The Circle Social APP ⭕ 📱
+**This project contains dummy data**
 
 For initiare the APP you must run `npm install` inside the `social`folder, then `expo start`
 
