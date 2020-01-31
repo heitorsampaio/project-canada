@@ -1,7 +1,7 @@
 
 # Project Canada 🇨🇦
 
-Hi! Repo contain **two** projects, **Social** in **React-Native, Firebase and Expo**. The **Task Manager** **AngularJS and MongoDB**
+Hi! This repo contain **two** projects, **Social** in **React-Native, Firebase and Expo**. The **Task Manager** **AngularJS and MongoDB**
 
 
 # Task Manager 📝 💻
