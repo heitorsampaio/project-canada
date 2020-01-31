@@ -8,8 +8,10 @@ Hi! Repo contain **two** projects, **Social** in **React-Native, Firebase and Ex
 
 For initiate the APP you must run `npm install` in both folder `API` and `FRONTEND` then inside the `API` folder run `nodemon app.js` and in the `FRONTEND` folder run `ng serve`
 
-![Login Page](https://github.com/heitorsampaio/project-canada/blob/master/task-manager/screenshots/loginPage.png)
-![Sign Up Page](https://github.com/heitorsampaio/project-canada/blob/master/task-manager/screenshots/signUpPage.png)
+Login Page            |  Sign Up Page
+:-------------------------:|:-------------------------:
+![Login Page](https://github.com/heitorsampaio/project-canada/blob/master/task-manager/screenshots/loginPage.png) | ![Sign Up Page](https://github.com/heitorsampaio/project-canada/blob/master/task-manager/screenshots/signUpPage.png)
+
 ![Main Page](https://github.com/heitorsampaio/project-canada/blob/master/task-manager/screenshots/mainPage.png)
 
 # The Circle Social APP ⭕ 📱
