@@ -14,7 +14,7 @@ For initiate the APP you must run `npm install` in both folder `API` and `FRONTE
 
 # The Circle Social APP ⭕ 📱
 
-For initiare the APP you must run `npm install` inside the `socia`folder, then `expo start`
+For initiare the APP you must run `npm install` inside the `social`folder, then `expo start`
 
 Login Page            |  Sign Up Page
 :-------------------------:|:-------------------------:
